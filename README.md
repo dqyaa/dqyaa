@@ -11,8 +11,7 @@
 
 - 🌱  I’m passionate about AI.
   
-- ⚡  I’m passionate about AI.
-
+- ⚡  Fun fact: I enjoy working on complex projects.
 <br/>  
 
 
